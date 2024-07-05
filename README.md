@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Java
-- 📫 for contact instagram-himanshusaini0911
+-  Passionate Software Developer
+- 🌱 currently learning DSA
+- 📫 for contact himanshusaini0911@gmail.com
 
 <!---
 Himanshu3036/Himanshu3036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
